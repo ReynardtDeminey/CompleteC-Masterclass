@@ -1,0 +1,11 @@
+/home/demineydev/Development/CompleteC-Masterclass/Nums/bin/Debug/netcoreapp3.1/Nums
+/home/demineydev/Development/CompleteC-Masterclass/Nums/bin/Debug/netcoreapp3.1/Nums.deps.json
+/home/demineydev/Development/CompleteC-Masterclass/Nums/bin/Debug/netcoreapp3.1/Nums.runtimeconfig.json
+/home/demineydev/Development/CompleteC-Masterclass/Nums/bin/Debug/netcoreapp3.1/Nums.runtimeconfig.dev.json
+/home/demineydev/Development/CompleteC-Masterclass/Nums/bin/Debug/netcoreapp3.1/Nums.dll
+/home/demineydev/Development/CompleteC-Masterclass/Nums/bin/Debug/netcoreapp3.1/Nums.pdb
+/home/demineydev/Development/CompleteC-Masterclass/Nums/obj/Debug/netcoreapp3.1/Nums.csprojAssemblyReference.cache
+/home/demineydev/Development/CompleteC-Masterclass/Nums/obj/Debug/netcoreapp3.1/Nums.AssemblyInfoInputs.cache
+/home/demineydev/Development/CompleteC-Masterclass/Nums/obj/Debug/netcoreapp3.1/Nums.AssemblyInfo.cs
+/home/demineydev/Development/CompleteC-Masterclass/Nums/obj/Debug/netcoreapp3.1/Nums.dll
+/home/demineydev/Development/CompleteC-Masterclass/Nums/obj/Debug/netcoreapp3.1/Nums.pdb

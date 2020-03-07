@@ -1,0 +1,11 @@
+/home/demineydev/Development/CompleteC-Masterclass/Strings/bin/Debug/netcoreapp3.1/Strings
+/home/demineydev/Development/CompleteC-Masterclass/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/home/demineydev/Development/CompleteC-Masterclass/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/home/demineydev/Development/CompleteC-Masterclass/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/home/demineydev/Development/CompleteC-Masterclass/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/home/demineydev/Development/CompleteC-Masterclass/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/home/demineydev/Development/CompleteC-Masterclass/Strings/obj/Debug/netcoreapp3.1/Strings.csprojAssemblyReference.cache
+/home/demineydev/Development/CompleteC-Masterclass/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/home/demineydev/Development/CompleteC-Masterclass/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/home/demineydev/Development/CompleteC-Masterclass/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/home/demineydev/Development/CompleteC-Masterclass/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
