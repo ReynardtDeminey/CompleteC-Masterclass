@@ -1,0 +1,11 @@
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/demineydev/Development/CompleteC-Masterclass/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
